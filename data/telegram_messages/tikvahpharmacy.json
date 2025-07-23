@@ -1,0 +1,252 @@
+[
+  {
+    "_": "Message",
+    "id": 118,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1406701732
+    },
+    "date": "2024-05-12 15:08:35+00:00",
+    "message": "https://t.me/+Ve0-mG00-BdW5sQa",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+      "_": "MessageMediaWebPage",
+      "webpage": {
+        "_": "WebPage",
+        "id": 9170793120475816751,
+        "url": "https://t.me/+Ve0-mG00-BdW5sQa",
+        "display_url": "t.me/+Ve0-mG00-BdW5sQa",
+        "hash": 0,
+        "has_large_media": false,
+        "video_cover_photo": false,
+        "type": "telegram_megagroup",
+        "site_name": "Telegram",
+        "title": "Tikvah Pharmacy",
+        "description": "📍 blogs on Health and Pharmaceutical Informations✍️",
+        "photo": {
+          "_": "Photo",
+          "id": 5922619297295877221,
+          "access_hash": -4706085493754250008,
+          "file_reference": "b'\\x00h\\x81\\x1e\\x8a\\xad\\xd0\\x84w\\x82\\xa6\\xc0\\x08^\\x18\\xa2\\xe6\\xd2N\\xf4Y'",
+          "date": "2024-11-26 17:06:56+00:00",
+          "sizes": [
+            {
+              "_": "PhotoSize",
+              "type": "a",
+              "w": 160,
+              "h": 160,
+              "size": 5818
+            },
+            {
+              "_": "PhotoSize",
+              "type": "b",
+              "w": 320,
+              "h": 320,
+              "size": 13073
+            },
+            {
+              "_": "PhotoSize",
+              "type": "c",
+              "w": 640,
+              "h": 640,
+              "size": 30447
+            },
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xd9\\xa2\\x8a\\xa3q~\\xd0\\xdc4{\\x01Q\\xef\\xcd&\\xec&\\xec?\\xfbB\\x0c\\xe3-\\xff\\x00|\\xd5\\xba\\xcb\\x8e\\xdd6\\x16\\nd\\x0e>C\\xdc\\x1fLT\\xd0\\xde\\xbb\\xdd\\x88\\n\\xae9\\x19\\x07\\xda\\x94n\\xf7\\x12}\\xcb\\xd4QEQAU'\\xb1I\\xa5i\\x0b\\xb0'\\xb0\\xab.\\xcc\\xa0m]\\xd4\\xcf5\\xb1\\xfe\\xa5\\xf3I\\xab\\x89\\xdb\\xa9\\x9c\\xb2\\x08-\\x11\\xf3\\xfb\\xd2N\\xc1\\xe8\\x0fz\\xb5o\\xa7\\xa42\\xac\\x82Fb=i\\xcf\\x0c[\\xc9k]\\xde\\x86\\xa5\\xf3H\\xff\\x00\\x96O\\xfaSZ+\\x12\\x97rZ)\\xa8\\xfb\\xc1\\xf9J\\xe3\\xd6\\x8a\\x0b\\x1dE\\x14P\\x01E\\x14P\\x01E\\x14P\\x07\""
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "embed_url": null,
+        "embed_type": null,
+        "embed_width": null,
+        "embed_height": null,
+        "duration": null,
+        "author": null,
+        "document": null,
+        "cached_page": null,
+        "attributes": []
+      },
+      "force_large_media": false,
+      "force_small_media": true,
+      "manual": true,
+      "safe": true
+    },
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityUrl",
+        "offset": 0,
+        "length": 30
+      }
+    ],
+    "views": 78,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+  },
+  {
+    "_": "Message",
+    "id": 117,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1406701732
+    },
+    "date": "2024-04-28 20:11:06+00:00",
+    "message": "🩸👨‍⚕ Tikvah Pharmacy 🩺🧬",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": null,
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityTextUrl",
+        "offset": 0,
+        "length": 27,
+        "url": "https://t.me/+Ve0-mG00-BdW5sQa"
+      }
+    ],
+    "views": 84,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": "2024-05-12 15:08:14+00:00",
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+  },
+  {
+    "_": "Message",
+    "id": 113,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1406701732
+    },
+    "date": "2021-09-16 14:46:43+00:00",
+    "message": "https://t.me/+Ve0-mG00-BdW5sQa",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": null,
+    "reply_markup": null,
+    "entities": [
+      {
+        "_": "MessageEntityUrl",
+        "offset": 0,
+        "length": 30
+      }
+    ],
+    "views": 344,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": "2024-05-12 15:08:26+00:00",
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+  },
+  {
+    "_": "MessageService",
+    "id": 1,
+    "peer_id": {
+      "_": "PeerChannel",
+      "channel_id": 1406701732
+    },
+    "date": "2020-11-20 16:45:27+00:00",
+    "action": {
+      "_": "MessageActionChannelCreate",
+      "title": "🎶Tiktok Besties ✨"
+    },
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "reactions_are_possible": false,
+    "silent": false,
+    "post": true,
+    "legacy": false,
+    "from_id": null,
+    "reply_to": null,
+    "reactions": null,
+    "ttl_period": null
+  }
+]
