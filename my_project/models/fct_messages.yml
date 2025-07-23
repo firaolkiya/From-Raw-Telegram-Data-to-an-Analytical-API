@@ -1,0 +1,23 @@
+version: 2
+
+models:
+  - name: fct_messages
+    description: "Fact table containing one row per Telegram message, with metrics and foreign keys to dimensions."
+    columns:
+      - name: message_pk
+        description: "Primary key for the message."
+        tests:
+          - unique
+          - not_null
+      - name: channel_id
+        description: "Foreign key to dim_channels."
+        tests:
+          - not_null
+      - name: date_id
+        description: "Foreign key to dim_dates."
+        tests:
+          - not_null
+      - name: message_text
+        description: "The text content of the message."
+      - name: has_image
+        description: "True if the message contains an image."

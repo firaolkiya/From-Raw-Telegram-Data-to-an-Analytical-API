@@ -14,3 +14,4 @@ db.sqlite3
 *.py[cod]
 *.egg
 *.egg-info/
+my_project/profiles.yml
