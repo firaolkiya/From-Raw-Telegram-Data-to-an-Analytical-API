@@ -119,4 +119,4 @@ MIT
 
 ## Authors
 
-- [Your Name]
+- Firaol Bulo
